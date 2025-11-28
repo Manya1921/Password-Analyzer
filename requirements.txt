@@ -1,3 +1,6 @@
-nltk
+﻿nltk
 zxcvbn-python
 pytest
+Flask
+flask-cors
+gunicorn
